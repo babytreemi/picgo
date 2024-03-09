@@ -1,0 +1,21 @@
+{
+  "address" : "0x1171eabe9d9b17b4c12124d79ff1afe76770d145",
+  "crypto" : {
+    "cipher" : "aes-128-ctr",
+    "cipherparams" : {
+      "iv" : "0x86f99b2f59c17afbc0b94e3018b6a8a4"
+    },
+    "ciphertext" : "0x134cbb9d784eb1e4f493e7e5efc34d84265459378971f11a8e53a944e390857bd11e0ee94f95f4a63171186f99db2260ed13241299482407a88b78e0dab14693d55c48ccaebd464de36f2dcc98784c2f",
+    "kdf" : "pbkdf2",
+    "kdfparams" : {
+      "c" : 100000,
+      "dklen" : 32,
+      "prf" : "hmac-sha256",
+      "salt" : "0x0399b23640cc361f9c090672fbe5181f"
+    },
+    "mac" : "0x3d1330ece33a37e62c1861a1f44d5a0e9cc3dd602af91d811c3a6d9cf2f15887"
+  },
+  "id" : "505cce54f5d761e694952a372713f52c5c31d4dd6a255f50572e1ff1d933976c",
+  "redditBackupData" : "eyJ2ZXJzaW9uIjoxLCJlbmNyeXB0ZWRCYWNrdXBEYXRhIjoiOENwdURHUVVVcjJlMDBMM0tKSTdROE90TFlzbGFhc2lLb2kzVzhrN1NRdWROeTRLaFNjR0N1Z1hxcXRBcFduN3JjeENZdFlsbThDTWtWdHdwd0t3TUF4cEYxRGVjTW5keXVRTE1TVkRsWVRjZjVWcnVQY2QyQ2Y0NDhmano0cnI4K2FpbGlDYlI0dUpCVFpJdFlCMncyejZIYXdHMmFUK0YycEpFRG5ocmprWXo4cHVNTjhLNE5uSHNPUDcxd0JjSFN1SVppQy8zWjhpS3BHZnI3bFZIZjVEQlhDS2JyUmpLRFE5dCtjWlNVQlJLRVk3K3IvWmtaOGVOWGs9In0=",
+  "version" : 3
+}
